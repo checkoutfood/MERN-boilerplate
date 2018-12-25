@@ -1,33 +1,10 @@
-# MERN-boilerplate
+# Securing MERN Stack Web Application using Passport
 
-This is a boilerplate project using the following technologies:
-- [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
-- [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
-- [Sass](http://sass-lang.com/) for styles (using the SCSS syntax)
-- [Webpack](https://webpack.github.io/) for compilation
+This source code is part of [Securing MERN Stack Web Application using Passport](https://www.djamware.com/post/5a90c37980aca7059c14297a/securing-mern-stack-web-application-using-passport) tutorial.
 
+To run this source code:
 
-## Requirements
-
-- [Node.js](https://nodejs.org/en/) 6+
-
-```shell
-npm install
-```
-
-
-## Running
-
-Make sure to add a `config.js` file in the `config` folder. See the example there for more details.
-
-Production mode:
-
-```shell
-npm start
-```
-
-Development (Webpack dev server) mode:
-
-```shell
-npm run start:dev
-```
+* Clone this repo
+* Run MongoDB server
+* Run `npm npm run-script build`
+* Run `npm start`
